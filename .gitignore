@@ -1,0 +1,5 @@
+# Игнорировать переменные окружения
+.env
+.env.local
+allUsers.xlsx
+mygigUsers.xlsx
